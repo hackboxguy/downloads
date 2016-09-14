@@ -1,3 +1,9 @@
 user: test-slave-account@some-jabber-server.com
 pw: supersecretpw
-
+USBINTERFACE='0'
+OTHER='USBMODEM'
+USBMODEM='12d1:1001'
+APN='pinternet.interkom.de'
+APN_USER='0'
+APN_PASS='0'
+--devicename 'Huawei'
